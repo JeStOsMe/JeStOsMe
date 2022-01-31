@@ -1,4 +1,8 @@
-Algo en primera línea desde Master
+Algo en Primera línea desde Master
 
+Algo en Tercera línea desde Master
 
-Algo en cuarta línea desde Master
+Algo en Quinta línea desde Rama_Conflicto
+
+Algo en Séptima línea desde Rama_Conflicto
+
